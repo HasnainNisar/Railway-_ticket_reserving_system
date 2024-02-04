@@ -1,0 +1,8 @@
+﻿  source2.cpp
+C:\Users\Hasnain Khaskheli\Desktop\OOP_Project\railway _ticket_reserving_system\railway _ticket_reserving_system\source2.cpp(41,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hasnain Khaskheli\Desktop\OOP_Project\railway _ticket_reserving_system\railway _ticket_reserving_system\source2.cpp(75,68): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  railway _ticket_reserving_system.vcxproj -> C:\Users\Hasnain Khaskheli\Desktop\OOP_Project\railway _ticket_reserving_system\x64\Debug\railway _ticket_reserving_system.exe
